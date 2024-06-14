@@ -1,4 +1,5 @@
-# project_2ic80_group15
+# Lab on Offensive Computer Security (2IC80)
+## Default project group 15
 
 This is the repository containing our group's code for ARP poisoning, DNS spoofing and SSL stripping.
 
